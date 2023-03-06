@@ -1,4 +1,4 @@
 # rec457
 
 .
-Singleton
+Singleton.
