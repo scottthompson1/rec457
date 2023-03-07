@@ -2,3 +2,5 @@
 
 .
 Singleton.
+
+Native application
