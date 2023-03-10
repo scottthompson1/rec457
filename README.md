@@ -4,3 +4,5 @@
 Singleton.
 
 Native application
+
+http.proxy config
