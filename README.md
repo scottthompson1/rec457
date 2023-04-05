@@ -1,8 +1,7 @@
 # rec457
 
 .
-Singleton.
-
+es lint
 Native application
 
 http.proxy config
